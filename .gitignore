@@ -1,3 +1,3 @@
-.memos
-.venv
-__pycache__
+.memos/
+.venv/
+__pycache__/
